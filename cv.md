@@ -3,7 +3,7 @@
 1. Viacheslav Miloserdov
 2. Phone number: +7 964 980 48 51; E-mail: slavmiloserdov@mail.ru
 3. In recent years, I have been actively involved in mathematics. Participated in conferences, wrote scientific articles and much more. But now I realized that I want to became a web developer. I really want to learn to create beautiful sites with great functionality. I can learn fast and now I study only JavaScript and learn English.
-4.
+4. In university i used Java, Python, C, C++, C#, Pascal and SQL. Now i learn HTML, CSS, JavaScript and React.
 5. These are my solutions for Codewars:
 
 ---
