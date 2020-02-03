@@ -36,7 +36,11 @@ Array.prototype.numberOfOccurrences = function() {
 
 ---
 
-6. Projects: [Avia Tickets][1],
+My account in Codewars: [My account](https://www.codewars.com/users/MVV)
+
+---
+
+6. Projects: [Avia Tickets][1],[Simpe to-do list][4]
 
 7. Bachelor's degree in Applied Mathematics and Computer Science. I finished courses in Udemy.
 8. Now my English level is low, but i study with coach.
@@ -44,3 +48,5 @@ Array.prototype.numberOfOccurrences = function() {
 [1]: https://github.com/SlavaMiloserdov/Avia-Tickets
 [2]: https://www.codewars.com/kata/541c8630095125aba6000c00
 [3]: https://www.codewars.com/kata/52829c5fe08baf7edc00122b
+[4]: https://github.com/SlavaMiloserdov/Simple-to-do-list
+[5]: https://www.codewars.com/kata/523f5d21c841566fde000009
