@@ -24,6 +24,18 @@ function digital_root(n) {
 }
 ```
 
+- Solution for [Array.diff][5]:
+
+```js
+function array_diff(a, b) {
+  let c = [];
+  a.map(value => {
+    if (!b.includes(value)) c.push(value);
+  });
+  return c;
+}
+```
+
 ---
 
 - Solution for [Number Of Occurrences][3]:
